@@ -36,3 +36,16 @@ Chú thích giao diện:
 
 ## Chọn đối tượng người nhận
 ![](Screen-shot/Đối%20tượng%20người%20nhận.png)
+
+Chúng ta có các đối tượng sau:
+- `Danh bạ`: là bao gồm các bản ghi trong phần contacts (`Customer`, `Employees`, `Companies`)
+
+- `Mailing Contact`: là bao gồm các bản ghi được quản lý bởi `mailing` (xem thêm ở [Tạo và quản lý Mailing Contact](02%20-%20Gửi%20email.md#Tạo%20và%20quản%20lý%20Mailing%20Contact))
+
+- `Tiềm năng/Cơ hội`: bao gồm các bản ghi ở trong `CRM` như cơ hội
+
+- `Danh sách Mailing`: bao gồm các danh sách người nhận đã được tạo và quản lý bởi `Mailing` (xem thêm ở [Tạo và quản lý Mailing list](02%20-%20Gửi%20email.md#Tạo%20và%20quản%20lý%20Mailing%20list))
+
+
+## Tạo và quản lý Mailing Contact
+## Tạo và quản lý Mailing list
