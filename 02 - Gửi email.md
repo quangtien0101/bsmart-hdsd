@@ -89,15 +89,49 @@ Truy cập module `Bsmart` --> chọn `CRM` --> chọn `My Pipeline` --> Chọn 
 ![](Screen-shot/List%20view%20cơ%20hội.png)
 
 Sau đó sử dụng bộ lọc để chọn ra các `cơ hội` mong muốn. Nhấn vào `Hành động` --> `Convert to mail contacts`
-![](Convert%20to%20mail%20contacts.png)
+![](Screen-shot/Convert%20to%20mail%20contacts.png)
 
-![](Pasted%20image%2020210625163248.png)
+![](Screen-shot/Conver%20emails%20contacts.png)
 
 Tại đây, chúng ta có thể thêm các Mailing List - danh sách gửi mail, mà chúng ta muốn các bản ghi này được thêm vào. Hoặc có thể để trống và chỉ chuyển đổi thông tin các cơ hội này thành những `Mailing contacts`
 
 Nhấn `Convert`
 
 ## Tạo và quản lý Mailing list - danh sách gửi mail
+Chọn `Mailing` --> Chọn `Mailing list`
+![](Screen-shot/Giao%20diện%20mailing%20list.png)
 
+Mailing lists là các danh sách chứa các liên hệ (`mailing contact`), Một `Mailing list` bao gồm tên của mailing list đó và danh sách 
+![](Screen-shot/Mailing%20lists.png)
+
+Nhấn vào `Tạo`, sau đó nhập tên của Mailing list vào. Chọn `Tạo` để hoàn tất.
+
+![](Screen-shot/Tạo%20mailing%20list.png)
+
+Lúc này mailing list này vẫn chưa có bất kì `Mailing contacts` nào, vì vậy để thêm vào, ta quay lại phần `Mailing list contacts`, chọn vào bản ghi mong muốn, và thêm mailing list vừa tạo vào phần `Danh sách mailing`, sau đó nhấn Lưu.
+
+![](Screen-shot/Danh%20sách%20email%20khong%20có%20contact.png)
+![](Screen-shot/Chọn%20bản%20ghi%20để%20thêm%20vào.png)
+![](Screen-shot/Thêm%20danh%20sách%20mailing.png)
+![](Screen-shot/Danh%20sách%20mailing%20được%20cập%20nhật.png)
+
+Như vậy ta vừa cập nhật thêm 1 bản ghi cho mailing list (danh sách mail) "Danh sách người nhận mail". Xem cách thêm nhiều bản ghi vào trong mailing list ở phần [tạo mailing contacts từ giao diện CRM](02%20-%20Gửi%20email.md#Cách%202%20Tạo%20từ%20giao%20diện%20CRM)  
 
 ## Tạo và quản lý Email templates
+*Yêu cầu: tài khoản thực hiện hành động phải là tài khoản có các quyền Admin về Settings**
+
+Đầu tiên ta cần phải bật "Developers mode" - Chế độ phát triển
+
+Chọn module `Thiết lập`, sau đó kéo xuống đến khi thấy phần `Developer Tools`. Sau đó nhấn `Kích họat chế độ phát triển`.
+![](Screen-shot/Bật%20developer%20mode.png)
+
+Sau đó, nếu thành công, ta sẽ thấy biểu tượng có hình con bọ hiện ra ở thanh navigation
+![](Screen-shot/Developer%20mode%20được%20bật.png)
+
+Tiếp theo, vẫn ở module `Thiết lập`, chọn `Kỹ thuật`, ở trong mục `Emails`, chọn `các mẫu`.
+
+![](Screen-shot/Truy%20cập%20email%20templates.png)
+
+Sau đó chọn `Tạo`, và chúng ta sẽ có giao diện của phần tạo email template
+
+![](Screen-shot/Email%20template.png)
