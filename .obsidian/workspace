@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 - Quản lý tài khoản nhân viên.md",
+            "file": "02 - Gửi email.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6d94ad64b00671f7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "02 - Gửi email.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "dda36345c3825039",
@@ -69,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Quản lý tài khoản nhân viên.md",
+                "file": "02 - Gửi email.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -109,15 +119,15 @@
   },
   "active": "4a1efbe8129ceae0",
   "lastOpenFiles": [
+    "02 - Gửi email.md",
+    "Pasted image 20210625113408.png",
     "01 - Quản lý tài khoản nhân viên.md",
-    "Pasted image 20210624221929.png",
-    "Pasted image 20210624220243.png",
-    "Pasted image 20210624211257.png",
-    "Pasted image 20210624205010.png",
-    "Pasted image 20210624204717.png",
-    "Untitled.md",
-    "Temp.md",
-    "Maxscale with Galera case study.md",
-    "General.md"
+    "Pasted image 20210625112637.png",
+    "Pasted image 20210625103719.png",
+    "Screen-shot/Giao diện gửi email.png",
+    "Pasted image 20210625102020.png",
+    "Pasted image 20210625102715.png",
+    "Pasted image 20210625100820.png",
+    "Untitled.md"
   ]
 }
