@@ -1,3 +1,13 @@
+## Mục lục
+- [[#Chọn đối tượng người nhận|Chọn đối tượng người nhận]]
+- [[#Lọc danh sách người nhận|Lọc danh sách người nhận]]
+- [[#Tạo và quản lý Mailing Contact - Danh sách liên hệ mail|Tạo và quản lý Mailing Contact - Danh sách liên hệ mail]]
+	- [[#Cách 1: Tạo từ giao diện mailings|Cách 1: Tạo từ giao diện mailings]]
+	- [[#Cách 2: Tạo từ giao diện CRM|Cách 2: Tạo từ giao diện CRM]]
+- [[#Tạo và quản lý Mailing list - danh sách gửi mail|Tạo và quản lý Mailing list - danh sách gửi mail]]
+- [[#Tạo và quản lý Email templates|Tạo và quản lý Email templates]]
+
+
 # Gửi email cho cơ hội thông qua giao diện CRM
 
 Truy cập module `Bsmart` --> chọn `CRM` --> chọn `My Pipeline` --> Chọn vào biểu tượng List View
@@ -97,6 +107,8 @@ Tại đây, chúng ta có thể thêm các Mailing List - danh sách gửi mail
 
 Nhấn `Convert`
 
+Hoặc trong trường hợp ta chỉ cần convert 1 cơ hội duy nhất, ta có thể nhấn vào thẻ Kanban của cơ hội đó và nhấn `Convert lead to email contact`
+![](Screen-shot/Convert%20lead%20to%20email%20contact.png)
 ## Tạo và quản lý Mailing list - danh sách gửi mail
 Chọn `Mailing` --> Chọn `Mailing list`
 ![](Screen-shot/Giao%20diện%20mailing%20list.png)
@@ -135,3 +147,21 @@ Tiếp theo, vẫn ở module `Thiết lập`, chọn `Kỹ thuật`, ở trong 
 Sau đó chọn `Tạo`, và chúng ta sẽ có giao diện của phần tạo email template
 
 ![](Screen-shot/Email%20template.png)
+
+Chú thích giao diện:
+- **`1`**: Tên của template
+
+- **`2`**: Model/Đối tượng mà template này áp dụng lên (ví dụ: `Cơ hội`, `Liên Hệ`, ...)
+
+- **`3`**: Nội dung email template, bao gồm Subject và Body
+
+- **`4`**: Cấu hình thư điện tử, sử dụng để cấu hình các thông tin như email người gửi, email người nhận, email CC, ...
+![](Screen-shot/Cấu%20hình%20thư.png)
+
+- **`5`**: Thiết lập nâng cao, thông thường chúng ta chỉ sử dụng nó nếu như ta cần cân bằng tải cho nhiều mail server. Còn nếu không, ta có thể không quan tâm tới điều chỉnh này
+
+- **`6`**: Bộ tạo placehodler động, đây là công cụ để cá nhân hóa email. Sau khi chọn `Áp dụng cho`, thì ta có thể chọn trường thông tin cần thiết để lấy biến placeholder, sau đó ghi vào trong mail body
+![](Screen-shot/Placeholder.png)
+
+Ở hình dưới là ví dụ về cách sử dụng place holder trong mail body
+![](Screen-shot/Mail%20body.png)

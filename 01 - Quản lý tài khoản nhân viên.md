@@ -1,4 +1,4 @@
-Nội dung:
+## Mục lục
 - [[#Tạo tài khoản|Tạo tài khoản]]
 	- [[#Cách 1: Tạo tài khoản qua giao diện Contacts/Employees|Cách 1: Tạo tài khoản qua giao diện Contacts/Employees]]
 		- [[#Danh sách các phân quyền cần thiết cho nhân viên Admin|Danh sách các phân quyền cần thiết cho nhân viên Admin]]
@@ -8,7 +8,7 @@ Nội dung:
 		- [[#Tạo tài khoản nhân viên bán hàng|Tạo tài khoản nhân viên bán hàng]]
 		- [[#Liên kết tài khoản tạo với module Bsmart|Liên kết tài khoản tạo với module Bsmart]]
 
-## Tạo tài khoản
+# Tạo tài khoản
 *Yêu cầu: tài khoản thực hiện phải được cấp đủ quyền admin của module và các quyền cùa settings *
 
 ### Cách 1: Tạo tài khoản qua giao diện Contacts/Employees
