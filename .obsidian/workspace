@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4a1efbe8129ceae0",
+        "id": "f61e2f8e825306f1",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -15,12 +15,12 @@
         }
       },
       {
-        "id": "fe94fe32713274e6",
+        "id": "d39bff8032a0208d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03 - Quản lý cơ hội.md",
+            "file": "04 - Báo cáo.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Quản lý cơ hội.md",
+                "file": "04 - Báo cáo.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a1efbe8129ceae0",
+  "active": "d39bff8032a0208d",
   "lastOpenFiles": [
+    "04 - Báo cáo.md",
     "03 - Quản lý cơ hội.md",
-    "Pasted image 20210630175504.png",
-    "Pasted image 20210630174942.png",
-    "Pasted image 20210630174311.png",
-    "Pasted image 20210630174005.png",
-    "Pasted image 20210630173842.png",
-    "Pasted image 20210630173820.png",
-    "Pasted image 20210630173650.png",
-    "Pasted image 20210630173526.png",
-    "Pasted image 20210630173124.png"
+    "Pasted image 20210701165609.png",
+    "Pasted image 20210701165050.png",
+    "Pasted image 20210701165418.png",
+    "Pasted image 20210701164746.png",
+    "Screen-shot/yêu thích.png",
+    "Pasted image 20210701164356.png",
+    "Pasted image 20210701164036.png",
+    "Pasted image 20210701163538.png"
   ]
 }

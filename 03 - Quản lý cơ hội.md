@@ -1,3 +1,15 @@
+## Mục lục:
+- [[#Tạo cơ hội mới|Tạo cơ hội mới]]
+	- [[#Cách 1: Tạo cơ hội thủ công|Cách 1: Tạo cơ hội thủ công]]
+	- [[#Cách 2: Import từ tập tin `.xlsx`|Cách 2: Import từ tập tin `.xlsx`]]
+- [[#Chọn companies - công ty/bộ phận|Chọn companies - công ty/bộ phận]]
+- [[#Tổng quan về xem danh sách - List view|Tổng quan về xem danh sách - List view]]
+- [[#Lọc cơ hội - filter|Lọc cơ hội - filter]]
+	- [[#Ví dụ 1: Sử dụng options sẵn có - Lọc theo thời gian tạo|Ví dụ 1: Sử dụng options sẵn có - Lọc theo thời gian tạo]]
+	- [[#Ví dụ 2: Tạo bộ lọc tùy chỉnh - Lọc theo giới tính|Ví dụ 2: Tạo bộ lọc tùy chỉnh - Lọc theo giới tính]]
+	- [[#Lưu lại bộ lọc đang áp dụng|Lưu lại bộ lọc đang áp dụng]]
+- [[#Nhóm các cơ hội - group by|Nhóm các cơ hội - group by]]
+
 ## Tạo cơ hội mới
 Chọn module `bsmart CRM` --> `CRM` --> `My Pipeline`
 ![](Screen-shot/Truy%20cập%20CRM.png)
